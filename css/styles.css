@@ -3043,8 +3043,8 @@ textarea.form-control-lg {
 
 .btn-refait {
   color: #fff;
-  background-color: #F6B6F4;
-  border-color: #F6B6F4;
+  background-color: #FA8BF7;
+  border-color: #FA8BF7;
 }
 
 .btn-refait:hover {
@@ -3052,6 +3052,7 @@ textarea.form-control-lg {
   background-color: #F96FF4;
   border-color: #F96FF4;
 }
+
 
 
 .btn-check:focus + .btn-primary, .btn-primary:focus {
